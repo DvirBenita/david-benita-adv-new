@@ -1,0 +1,13 @@
+.idea
+node_modules
+.vscode
+dist
+build
+.nuxt
+.nitro
+.cache
+.output
+.env
+*.log*
+.DS_Store
+.adminjs

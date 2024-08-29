@@ -1,0 +1,158 @@
+{
+  "Header": {
+    "title": "עו״ד דוד בניטה",
+    "paragraph": "משרד עו״ד דוד בניטה מטפל בכל סוגי תביעות הנזיקין",
+    "subparagraph": "יעוץ ראשוני ללא עלות והתחייבות",
+    "tel": "050-6247777"
+  },
+  "About": {
+    "paragraph": "\n\nמשרד עורכי הדין דוד בניטה מתמחה במתן שירותים משפטיים בתחום תאונות עבודה, תאונות דרכים, תביעות נזיקין, תביעות כנגד ביטוח לאומי, ותביעות כנגד חברות ביטוח. עו\"ד דוד בניטה, בעל ניסיון רב בנזקי גוף, מעניק ליווי משפטי אישי ומקצועי לכל לקוח, במטרה למקסם את הפיצויים המגיעים להם.\n\nתחומי ההתמחות של המשרד כוללים:\n- תאונות עבודה ודרכים\n- תביעות נזיקין ונזקי גוף\n- תביעות כנגד ביטוח לאומי וחברות ביטוח\n- ייצוג בוועדות ביטוח לאומי ואובדן כושר עבודה\n\nמשרדנו מחויב להעניק יחס אישי ושירות מקצועי ללקוחותינו, תוך שקיפות ושיתוף פעולה מלא לאורך כל הדרך. אנו כאן כדי להילחם על זכויותיכם. פנו אלינו לייעוץ ראשוני ללא התחייבות!",
+
+    "Why": [" ניסיון רב", " מקצועיות גבוהה", " יחס אישי", " הצלחות מוכחות"],
+    "Why2": ["זמינות מיידית", "ליווי מקיף", "אמינות גבוהה", "שירות איכותי"]
+  },
+  "Gallery": [
+    {
+      "title": "Our office",
+      "largeImage": "img/office1.webp",
+      "smallImage": "img/office1.webp"
+    },
+    {
+      "title": "Our office",
+      "largeImage": "img/office2.webp",
+      "smallImage": "img/office2.webp"
+    },
+    {
+      "title": "Our office",
+      "largeImage": "img/office3.webp",
+      "smallImage": "img/office3.webp"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-cogs",
+      "img": "img/work-ac.webp",
+      "name": "תאונות עבודה",
+      "text": "טיפול במקרים של פגיעות גופניות כתוצאה מעבודה, לרבות תביעות מול המעסיק וחברות הביטוח."
+    },
+    {
+      "icon": "fa fa-sliders",
+      "img": "img/way-ac.webp",
+      "name": "תאונות דרכים",
+      "text": "ייצוג נפגעי תאונות דרכים במגוון מקרים, כולל תביעות לפיצויים ונזקי גוף."
+    },
+    {
+      "icon": "fa fa-wrench",
+      "img": "img/nezikin.webp",
+      "name": "תביעות נזיקין",
+      "text": "ייצוג נפגעים בתביעות נזיקין בגין פגיעות גופניות שונות, הן במרחב הציבורי והן במקומות עבודה."
+    },
+    {
+      "icon": "fa fa-database",
+      "img": "img/bituch-leumi.webp",
+      "name": "תביעות כנגד ביטוח לאומי",
+      "text": " ייצוג בוועדות רפואיות של ביטוח לאומי, תביעות לקבלת קצבאות נכות, אובדן כושר עבודה וזכויות נוספות."
+    },
+    {
+      "icon": "fa fa-gavel",
+      "img": "img/insurance.webp",
+      "name": "תביעות כנגד חברות ביטוח",
+      "text": "טיפול במגוון תביעות כנגד חברות ביטוח, כולל תביעות לנזקים, אובדן כושר עבודה, ותביעות פיצויים אחרות."
+    },
+    {
+      "icon": "fa fa-refresh",
+      "img": "img/nizkey-gof.webp",
+      "name": "נזקי גוף",
+      "text": " ייצוג נפגעים בתביעות בגין נזקי גוף כתוצאה מתאונות במרחב הציבורי, תאונות עבודה, ותאונות דרכים."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"תמחור שקוף ותקשורת אמינה לאורך כל ההליך המשפטי. בהחלט הבחירה שלי לכל עניין משפטי.\"",
+      "name": "יונתן רוזן"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"מקצועיות חסרת פשרות ושירות אישי לכל אורך הדרך. עורך דין מומלץ ביותר!\"",
+      "name": "נועם מזרחי"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"זמינות מיידית ויחס אישי. תמיד מרגישים שאתה בידיים טובות.\"",
+      "name": "איתן שפירא"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"ידע רחב וניסיון רב בתחום. בהחלט שווה את ההשקעה עבור התוצאות.\"",
+      "name": "יעל פרידמן"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"ליווי צמוד והסבר מפורט על כל שלב בתהליך. אין ספק שזה המשרד בשבילי.\"",
+      "name": "עומר סויסה"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"שירות מסור ויחס חם ואנושי. מומלץ בחום לכל מי שצריך ייצוג משפטי.!\"",
+      "name": "מאיה כהן"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "2 New Jersey 27 STE 306, Edison, New Jersey 08820",
+    "phone": "(908) 263-1144",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comment",
+
+      "img": "img/DoorPic.jpeg",
+      "title": "תאונות עבודה",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "img": "img/annual.jpeg",
+      "title": "תאונות דרכים",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-group",
+      "img": "img/repair.jpeg",
+      "title": "ביטוח לאומי",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-magic",
+      "img": "img/installation.jpeg",
+      "title": "נזקי גוף",
+      "text": ""
+    }
+  ]
+}
